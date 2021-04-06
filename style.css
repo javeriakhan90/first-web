@@ -1,0 +1,47 @@
+.navbar{
+    background-color: #EAECEE !important;
+}
+#margin{
+    margin-left: 620px;
+}
+
+.main{
+  display: inline-flex;
+  margin: 2px 2px 2px 2px;
+}
+.card{
+  margin: 2px;
+}
+.bg{
+  background-color: #D6EAF8;
+}
+.facebook{
+  margin-left: 360px;
+}
+.whatsapp{
+  margin-left: 200px;
+}
+.twitter{
+  margin-left: 470px;
+}
+
+h4{
+  text-align: center;
+  color: brown;
+  text-shadow: -1px -2px #7a69c5;
+}
+#button{
+  height: 30px;
+  width: 30px;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+.color{
+  background-color: #D6EAF8 ;
+}
+#bg{
+  background-image: url('https://ciyashop.potenzaglobalsolutions.com/bag/wp-content/uploads/sites/63/2017/08/10.jpg');
+  height: 200px;
+  width: 200px;
+}
